@@ -26,6 +26,8 @@ Available Controls inside Sorting Visualizer:-
 
 # **Samples**
 - Sample 1 (Insertion Sort)
-
+![Uploading example1Sorting.gif…]()
 
 - Sample 1 (Merge Sort)
+![example2Sorting](https://user-images.githubusercontent.com/95605534/184533284-c7e472f4-2c0b-47bc-aacd-a7c48d97b37d.gif)
+
