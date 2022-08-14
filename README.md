@@ -26,10 +26,10 @@ Available Controls inside Sorting Visualizer:-
 
 # **Samples**
 - Sample 1 (Insertion Sort)
-- 
+
 ![example1Sorting](https://user-images.githubusercontent.com/95605534/184533320-de8742d6-1046-4a4b-86db-256ad62e7a9a.gif)
 
 - Sample 2 (Merge Sort)
-- 
+
 ![example2Sorting](https://user-images.githubusercontent.com/95605534/184533284-c7e472f4-2c0b-47bc-aacd-a7c48d97b37d.gif)
 
